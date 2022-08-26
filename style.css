@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+.weight-title{
+    font-weight: 600;
+}
+.weight-text{
+    font-weight: 400;
+}
+.estilo-card{
+    padding: 10px;
+    width: 22rem; height: 15rem;
+    box-shadow: 0 4px 5px -1px grey;
+}
+.topo-card-1 {
+    border-top: 6px solid rgb(26, 243, 214);
+}
+.topo-card-2 {
+    border-top: 6px solid rgb(245, 0, 0);
+}
+.topo-card-3 {
+    border-top: 6px solid rgb(255, 123, 0);
+}
+.topo-card-4 {
+    border-top: 6px solid rgb(0, 110, 255);
+}
+.position-image-card{
+    position: absolute; 
+    bottom: 20px; 
+    right: 20px;
+}
